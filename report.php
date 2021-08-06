@@ -14,7 +14,7 @@
 
 
            // Connect to the database
-           $dbc = mysqli_connect('localhost', 'root', '%0ArSs7UI4#I8op%', 'aliendatabase')
+           $dbc = mysqli_connect('localhost', 'root', '****', 'aliendatabase')
            or die("error connecting to MySQL server.");
 
            // Create a query string
